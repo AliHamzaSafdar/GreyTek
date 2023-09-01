@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps/SecOps, AI/ML**
 
-- 👯 I’m looking to collaborate on **AI/ML or Devops projects to automate the processes**
+- 👯 I’m looking to collaborate on **AI/ML or Devops projects to contribute in**
 
 - 👨‍💻 All of my projects are available at [https://github.com/greytek](https://github.com/greytek)
 
